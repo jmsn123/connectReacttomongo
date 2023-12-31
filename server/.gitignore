@@ -1,4 +1,6 @@
 # Logs
+echo .DS_Store >> .gitignore
+
 logs
 *.log
 npm-debug.log*
